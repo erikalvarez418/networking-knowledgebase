@@ -2,7 +2,7 @@
 
 ## 📁 1. Networking Fundementals 
 
-- [OSI Model](./networking-knowledgebase/networking-fundamentals/OSI_Model.md)
+- [OSI Model](./networking-fundamentals/OSI_Model.md)
 - [Types of Networks](./networking-knowledgebase/networking-fundamentals/Types_of_Networks.md)
 - [MAC vs IP Address](./networking-knowledgebase/networking-fundamentals/MAC_vs_IP_Addresses.md)
 - [IPv4 vs IPv6](./networking-knowledgebase/networking-fundamentals/IPv4_vs_IPv6.md)
